@@ -48,6 +48,7 @@ class Solution {
     }
 }
 
+
 Input:
 day =
 31
