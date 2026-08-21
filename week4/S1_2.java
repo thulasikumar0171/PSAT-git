@@ -91,3 +91,42 @@ public class Main {
         }
     }
 }
+
+output:
+Enter initial balance: 3000
+
+--- Banking System ---
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter choice: 1
+Enter deposit amount: 500
+Deposit successful.
+
+--- Banking System ---
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter choice: 2
+Enter withdrawal amount: 100
+Withdrawal successful.
+
+--- Banking System ---
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter choice: 3
+Current Balance: ?3400.0
+
+--- Banking System ---
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter choice: 4
+Thank you!
+
+=== Code Execution Successful ===
