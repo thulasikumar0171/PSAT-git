@@ -109,3 +109,62 @@ public class Main {
         sc.close();
     }
 }
+
+
+output:
+Enter account holder name: luffy
+Enter account number: 899097898
+Enter initial balance: 5000
+
+===== BANKING TRANSACTION SYSTEM =====
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Account Details
+5. Exit
+Enter your choice: 1
+Enter deposit amount: 300
+Amount deposited successfully!
+
+===== BANKING TRANSACTION SYSTEM =====
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Account Details
+5. Exit
+Enter your choice: 2
+Enter withdrawal amount: 100
+Amount withdrawn successfully!
+
+===== BANKING TRANSACTION SYSTEM =====
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Account Details
+5. Exit
+Enter your choice: 3
+Current Balance: ?5200.0
+
+===== BANKING TRANSACTION SYSTEM =====
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Account Details
+5. Exit
+Enter your choice: 4
+
+--- Account Details ---
+Account Holder: luffy
+Account Number: 899097898
+Balance: ?5200.0
+
+===== BANKING TRANSACTION SYSTEM =====
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Account Details
+5. Exit
+Enter your choice: 5
+Thank you for using the banking system!
+
+=== Code Execution Successful ===
