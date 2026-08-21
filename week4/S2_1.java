@@ -35,3 +35,12 @@ public class Main {
         sc.close();
     }
 }
+
+output:
+Enter number of elements: 5
+Enter elements:
+2 5 6 7 8
+Maximum = 8
+Minimum = 2
+
+=== Code Execution Successful ===
