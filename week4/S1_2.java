@@ -127,6 +127,3 @@ Current Balance: ?3400.0
 3. Check Balance
 4. Exit
 Enter choice: 4
-Thank you!
-
-=== Code Execution Successful ===
